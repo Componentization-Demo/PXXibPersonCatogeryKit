@@ -1,0 +1,6 @@
+framework module Pods_PXXibPersonCatogeryKit_Example {
+  umbrella header "Pods-PXXibPersonCatogeryKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

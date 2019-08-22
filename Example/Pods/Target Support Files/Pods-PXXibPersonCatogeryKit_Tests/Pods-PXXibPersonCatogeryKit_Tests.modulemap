@@ -1,0 +1,6 @@
+framework module Pods_PXXibPersonCatogeryKit_Tests {
+  umbrella header "Pods-PXXibPersonCatogeryKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
